@@ -1,7 +1,7 @@
 {
-	"ip":"damertest.aternos.me",
-	"port": 58015,
-	"name": "afkbot",
+	"ip":"TBNVT5.aternos.me",
+	"port": 20523,
+	"name": "vsn afk",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register 12345 12345",
