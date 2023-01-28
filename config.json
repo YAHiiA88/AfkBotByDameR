@@ -1,7 +1,7 @@
 {
 	"ip":"322G.aternos.me",
 	"port":56696,
-	"name": "afkbot",
+	"name": "AFK player",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register 12345 12345",
